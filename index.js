@@ -4,7 +4,7 @@ var bots;
 
 function setupBots(){
   var meatspaces = [];
-  var configs = require('config.json');
+  var configs = require('./config.json');
   configs = configs instanceof Array
     ? configs
     : [configs];
