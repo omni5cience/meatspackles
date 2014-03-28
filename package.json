@@ -1,0 +1,25 @@
+{
+  "name": "meatspackles",
+  "description": "A framework for meatspac.es bots",
+  "version": "0.0.1",
+  "author": "Sam Epstein <sam@samesptein.com>",
+  "keywords": [
+    "meatspace"
+  ],
+  "maintainers": [
+    {
+      "name": "Sam Epstein",
+      "email": "sam@samepstein.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/omni5cience/meatspackles.git"
+  },
+  "license": "MIT",
+  "homepage": "http://github.com/omni5cience/meatspackles",
+  "dependencies": {
+    "socket.io-client": "^0.9.16",
+    "mime": "^1.2.11"
+  }
+}
