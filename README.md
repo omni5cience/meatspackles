@@ -15,7 +15,7 @@ To submit a bot create a new folder in the `/bots` directory with:
 `bot.json`
 ==========
 
-```JSON
+```js
 {
   "trigger": "!metal",    // A regex or string to look for in messages
   "caseSensitive": false, // [Optional] Defaults to false
