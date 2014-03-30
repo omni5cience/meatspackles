@@ -2,5 +2,5 @@
   "trigger": "!datloop",
   "fingerprint": "datloop",
   "messages": "DAT LOOP",
-  "gifs": "Soviet.gif"
+  "gifs": ["Soviet.gif", "ToddLoops.gif"]
 }
