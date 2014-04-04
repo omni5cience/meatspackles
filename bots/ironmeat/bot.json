@@ -1,0 +1,6 @@
+{
+  "trigger": "!ironmeat",
+  "fingerprint": "ironmeat",
+  "messages": ["I am IronMeat", "Actually, I AM a bot"],
+  "gifs": "ironmeat.gif"
+}
