@@ -1,5 +1,5 @@
 {
-  "trigger": ["is.+bot", "new.+bot", "that.+bot", "robot", "captcha", "password"],
+  "trigger": "Am I a bot?",
   "fingerprint": "notbot",
   "messages": "I am not a bot.",
   "gifs": [
