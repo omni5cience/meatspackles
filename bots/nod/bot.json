@@ -1,0 +1,6 @@
+{
+  "trigger": "!nod",
+  "fingerprint": "catnod",
+  "messages": ["I agree", "Nods", "I concur"],
+  "gifs": "nod.gif"
+}
