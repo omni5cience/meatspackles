@@ -1,0 +1,6 @@
+{
+  "trigger": "!danceparty",
+  "fingerprint": "danceparty",
+  "messages": "GET UP AND DANCE",
+  "gifs": ["corporateofficedancing.gif", "danceparty01.gif", "danceparty02.gif", "danceparty03.gif", "danceparty04.gif" ]
+}
