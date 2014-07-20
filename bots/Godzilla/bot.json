@@ -1,0 +1,18 @@
+{
+    "gifs": [
+        "appear_1.gif", 
+        "appear_2.gif", 
+        "attack_1.gif", 
+        "attack_2.gif"
+    ], 
+    "trigger": [
+        "[Gg]odzilla [Aa]ttack!", 
+        "^[Gg]odzilla$"
+    ], 
+    "messages": [
+        "A wild Godzilla appears!", 
+        "Up from the depths, 30 stories high!", 
+        "You hear that? Godzilla!"
+    ], 
+    "fingerprint": "Godzilla"
+}

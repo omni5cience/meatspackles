@@ -1,0 +1,13 @@
+{
+    "gifs": [
+        "irony.gif"
+    ], 
+    "trigger": [
+        "\\!ironic", 
+        "\\!irony"
+    ], 
+    "messages": [
+        "Isn't it ironic?"
+    ], 
+    "fingerprint": "irony"
+}

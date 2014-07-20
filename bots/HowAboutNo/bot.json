@@ -1,0 +1,12 @@
+{
+    "gifs": [
+        "howaboutno.gif"
+    ], 
+    "trigger": [
+        "\\!no"
+    ], 
+    "messages": [
+        " "
+    ], 
+    "fingerprint": "HowAboutNo"
+}

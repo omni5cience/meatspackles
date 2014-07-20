@@ -1,0 +1,12 @@
+{
+    "gifs": [
+        "point.gif"
+    ], 
+    "trigger": [
+        "\\!point"
+    ], 
+    "messages": [
+        "You've got a point!"
+    ], 
+    "fingerprint": "Arrow"
+}

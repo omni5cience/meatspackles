@@ -1,0 +1,12 @@
+{
+    "gifs": [
+        "attack.gif"
+    ], 
+    "trigger": [
+        "[Ss]isbro [Aa]ttack"
+    ], 
+    "messages": [
+        "ROAAAARRARAGARABBLE!!!"
+    ], 
+    "fingerprint": "sisbro"
+}

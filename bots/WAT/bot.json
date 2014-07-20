@@ -1,0 +1,14 @@
+{
+    "gifs": [
+        "wat.gif", 
+        "wat1.gif", 
+        "wat2.gif"
+    ], 
+    "trigger": [
+        "\\!WAT"
+    ], 
+    "messages": [
+        "WAT"
+    ], 
+    "fingerprint": "WAT"
+}

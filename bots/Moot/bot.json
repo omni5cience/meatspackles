@@ -1,0 +1,31 @@
+{
+    "gifs": [
+        "bird.gif", 
+        "dangerzone.gif", 
+        "happening.gif", 
+        "hotdog.gif", 
+        "hotdog2.gif", 
+        "hotdog3.gif", 
+        "hotdog4.gif", 
+        "hotdog5.gif", 
+        "hotdog6.gif", 
+        "hotdog7.gif", 
+        "hotdog8.gif", 
+        "moot1.gif", 
+        "moot2.gif", 
+        "moot3.gif", 
+        "moot4.gif"
+    ], 
+    "trigger": [
+        "\\!dangerzone", 
+        "\\!hotdog", 
+        "\\!candy", 
+        "\\!bird", 
+        "\\!moot", 
+        "\\!happening"
+    ], 
+    "messages": [
+        " "
+    ], 
+    "fingerprint": "Moot"
+}

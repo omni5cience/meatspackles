@@ -1,0 +1,15 @@
+{
+    "gifs": [
+        "appear.gif", 
+        "attack.gif"
+    ], 
+    "trigger": [
+        "[Kk]ing [Kk]ong [Aa]ttack!", 
+        "^[Kk]ing [Kk]ong$"
+    ], 
+    "messages": [
+        "A wild King Kong appears!", 
+        "Have you ever heard of... Kong?!"
+    ], 
+    "fingerprint": "KingKong"
+}

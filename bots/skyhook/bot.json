@@ -1,0 +1,14 @@
+{
+    "gifs": [
+        "skyhook.gif"
+    ],
+    "trigger": [
+        "\\!skyhook"
+    ],
+    "messages": [
+        "I'm freeeeeee!",
+        "Don't call me a skyhooker.",
+        "Watch me go!"
+    ],
+    "fingerprint": "skyhook"
+}

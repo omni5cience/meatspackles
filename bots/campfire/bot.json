@@ -1,0 +1,13 @@
+{
+    "gifs": [
+        "fire.gif"
+    ], 
+    "trigger": [
+        "\\!feu", 
+        "\\!invoquer"
+    ], 
+    "messages": [
+        "feu!"
+    ], 
+    "fingerprint": "campfire"
+}

@@ -1,0 +1,51 @@
+{
+    "gifs": [
+        "dance.gif", 
+        "dance10.gif", 
+        "dance11.gif", 
+        "dance12.gif", 
+        "dance13.gif", 
+        "dance14.gif", 
+        "dance15.gif", 
+        "dance16.gif", 
+        "dance17.gif", 
+        "dance18.gif", 
+        "dance19.gif", 
+        "dance2.gif", 
+        "dance20.gif", 
+        "dance21.gif", 
+        "dance22.gif", 
+        "dance23.gif", 
+        "dance24.gif", 
+        "dance25.gif", 
+        "dance26.gif", 
+        "dance27.gif", 
+        "dance3.gif", 
+        "dance4.gif", 
+        "dance5.gif", 
+        "dance6.gif", 
+        "dance7.gif", 
+        "dance8.gif", 
+        "dance9.gif", 
+        "pika.gif", 
+        "pika2.gif", 
+        "pika3.gif", 
+        "pika4.gif", 
+        "pika5.gif", 
+        "pika6.gif"
+    ], 
+    "trigger": [
+        "\\!dance", 
+        "\\!pika"
+    ], 
+    "messages": [
+        "Get down, get down!", 
+        "Boogie all the time!", 
+        "Dance bot hears and obeys.", 
+        "Shake your groove thing, yeah yeah!", 
+        "This one is from Act 2, scene 5 of Swan Lake.", 
+        "Working up a sweat here.", 
+        "This was Jen's best move when she was a goth raver in the 90s."
+    ], 
+    "fingerprint": "dance"
+}

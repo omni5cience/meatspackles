@@ -1,0 +1,18 @@
+{
+    "gifs": [
+        "creator1.gif", 
+        "creator2.gif", 
+        "creator3.gif", 
+        "creator4.gif"
+    ], 
+    "trigger": [
+        "\\!creator", 
+        "\\!creatorbro", 
+        "\\!edna", 
+        "\\!ednabro"
+    ], 
+    "messages": [
+        "WHO HATH SUMMONED MEEEEEEEE"
+    ], 
+    "fingerprint": "creator"
+}

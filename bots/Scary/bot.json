@@ -1,0 +1,13 @@
+{
+    "gifs": [
+        "you.gif"
+    ], 
+    "trigger": [
+        "\\!you"
+    ], 
+    "messages": [
+        "YOUUUUUUU", 
+        "HNNNGHGNGNNGHN"
+    ], 
+    "fingerprint": "Scary"
+}

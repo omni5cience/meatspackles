@@ -1,0 +1,26 @@
+{
+    "gifs": [
+        "duane.gif", 
+        "escape.gif", 
+        "excellent.gif", 
+        "ninjas.gif", 
+        "saxman.gif", 
+        "standards.gif", 
+        "working.gif", 
+        "zuul.gif"
+    ], 
+    "trigger": [
+        "\\!ninjas", 
+        "\\!help", 
+        "\\!working", 
+        "\\!saxytime", 
+        "\\!excellent", 
+        "\\!standards", 
+        "^!duane", 
+        "\\!escape"
+    ], 
+    "messages": [
+        "GO! GO! GO!"
+    ], 
+    "fingerprint": "duane"
+}

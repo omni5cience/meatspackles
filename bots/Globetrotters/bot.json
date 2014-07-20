@@ -1,0 +1,14 @@
+{
+    "gifs": [
+        "globetrottin.gif", 
+        "slamdunk.gif"
+    ], 
+    "trigger": [
+        "\\!globetrottin", 
+        "\\!slamdunk"
+    ], 
+    "messages": [
+        "Dreams actually can come true!"
+    ], 
+    "fingerprint": "Globetrotters"
+}
