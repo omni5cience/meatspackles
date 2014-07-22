@@ -26,17 +26,10 @@
         "dance6.gif", 
         "dance7.gif", 
         "dance8.gif", 
-        "dance9.gif", 
-        "pika.gif", 
-        "pika2.gif", 
-        "pika3.gif", 
-        "pika4.gif", 
-        "pika5.gif", 
-        "pika6.gif"
+        "dance9.gif"
     ], 
     "trigger": [
-        "\\!dance", 
-        "\\!pika"
+        "\\!dance"
     ], 
     "messages": [
         "Get down, get down!", 

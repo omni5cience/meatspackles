@@ -1,0 +1,12 @@
+{
+    "gifs": [
+        "out.gif"
+    ], 
+    "trigger": [
+        "\\!out"
+    ], 
+    "messages": [
+        "See ya in 30!"
+    ], 
+    "fingerprint": "out"
+}

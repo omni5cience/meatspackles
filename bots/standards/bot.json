@@ -1,0 +1,12 @@
+{
+    "gifs": [
+        "standards.gif"
+    ], 
+    "trigger": [
+        "\\!standards"
+    ], 
+    "messages": [
+        "lol standards"
+    ], 
+    "fingerprint": "standards"
+}

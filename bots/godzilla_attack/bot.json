@@ -1,0 +1,14 @@
+{
+    "gifs": [
+        "godzilla_attack_1.gif", 
+        "godzilla_attack_2.gif"
+    ], 
+    "trigger": [
+        "[Gg]odzilla [Aa]ttack!"
+    ], 
+    "messages": [
+        "SKREEEEEEEEEAAAAAONGK!!!", 
+        "FWOOOOOOOOOOOOSH!!!"
+    ], 
+    "fingerprint": "godzilla_attack"
+}
