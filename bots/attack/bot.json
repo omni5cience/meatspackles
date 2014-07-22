@@ -1,0 +1,13 @@
+{
+    "gifs": [
+        "attack.gif"
+    ], 
+    "trigger": [
+        "[Kk]ing [Kk]ong [Aa]ttack!"
+    ], 
+    "messages": [
+        "ROAAAAAAAAAAR!", 
+        "GROOOWWWWWWL!!!!"
+    ], 
+    "fingerprint": "attack"
+}

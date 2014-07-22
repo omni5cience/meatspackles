@@ -1,0 +1,15 @@
+{
+    "gifs": [
+        "foiled.gif", 
+        "foiled2.gif"
+    ], 
+    "trigger": [
+        "\\!foiled"
+    ], 
+    "messages": [
+        "FOILED AGAIN!", 
+        "GAH!", 
+        "BLAST!"
+    ], 
+    "fingerprint": "foiled"
+}

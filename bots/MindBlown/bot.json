@@ -1,0 +1,12 @@
+{
+    "gifs": [
+        "mindblown.gif"
+    ], 
+    "trigger": [
+        "\\!mindblown"
+    ], 
+    "messages": [
+        "PWOOOOH PWOOOOSSH BWOOOOOOAH BWOOOAAAHHH PWOOOOOOOSH"
+    ], 
+    "fingerprint": "mindblown"
+}

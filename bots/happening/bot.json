@@ -1,0 +1,12 @@
+{
+    "gifs": [
+        "happening.gif"
+    ], 
+    "trigger": [
+        "\\!happening"
+    ], 
+    "messages": [
+        "It's happening!"
+    ], 
+    "fingerprint": "happening"
+}
