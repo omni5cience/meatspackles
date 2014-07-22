@@ -1,0 +1,12 @@
+{
+    "gifs": [
+        "myemotions.gif"
+    ], 
+    "trigger": [
+        "\\!myemotions"
+    ], 
+    "messages": [
+        "MY EMOTIONS!"
+    ], 
+    "fingerprint": "myemotions"
+}
