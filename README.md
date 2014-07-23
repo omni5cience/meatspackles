@@ -31,9 +31,9 @@ To submit a bot create a new folder in the `/bots` directory with:
 TODO
 ====
 
-- [ ] Automated restarts
+- [x] Automated restarts
 - [ ] Actual documentation
 - [ ] Tests?
 - [ ] Generate bot listing (GH-Pages)
-- [ ] Meatmonsters emulation (with in band enabling for when they go down)
+- [x] Meatmonsters emulation (thanks @gggritso)
 - [ ] More custom bots
