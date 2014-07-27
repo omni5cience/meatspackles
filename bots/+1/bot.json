@@ -1,6 +1,5 @@
 {
   "trigger": "!\\+1",
-  "fingerprint": "bot-fingerprint",
   "messages": "+1",
   "gifs": "+1.gif"
 }

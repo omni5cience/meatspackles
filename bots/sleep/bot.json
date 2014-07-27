@@ -1,6 +1,5 @@
 {
   "trigger": "!sleep",
-  "fingerprint": "bot-fingerprint",
   "messages": "And...sleep!",
   "gifs": "sleepybunny.gif"
 }

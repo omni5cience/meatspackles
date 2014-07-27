@@ -1,6 +1,5 @@
 {
   "trigger": "!nod",
-  "fingerprint": "bot-fingerprint",
   "messages": ["I agree", "Nods", "I concur"],
   "gifs": "nod.gif"
 }

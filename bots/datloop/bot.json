@@ -1,6 +1,5 @@
 {
   "trigger": "!datloop",
-  "fingerprint": "bot-fingerprint",
   "messages": "DAT LOOP",
   "gifs": ["Soviet.gif", "ToddLoops.gif", "Midi.gif"]
 }

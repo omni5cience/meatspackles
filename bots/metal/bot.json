@@ -1,6 +1,5 @@
 {
   "trigger": "!metal",
-  "fingerprint": "bot-fingerprint",
   "messages": "METAL!",
   "gifs": ["metalhand.gif", "metalrenee.gif", "metalzanditroll.gif"]
 }

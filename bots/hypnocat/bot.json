@@ -1,6 +1,5 @@
 {
   "trigger": "!hypnocat",
-  "fingerprint": "bot-fingerprint",
   "messages": ["ALL HAIL HYPNOCAT!", "ALL GLORY TO THE HYPNOCAT"],
   "gifs": "hypnocat.gif"
 }

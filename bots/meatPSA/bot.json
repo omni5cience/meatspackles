@@ -1,6 +1,5 @@
 {
   "trigger": "!meatPSA",
-  "fingerprint": "bot-fingerprint",
   "messages": "It is illegal by law to meat and drive. You will crash and fuck somebody up. If you must meat, pull over and come to a full stop.",
   "gifs": "meatPSA.gif"
 }
