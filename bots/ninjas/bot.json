@@ -1,12 +1,12 @@
 {
     "gifs": [
         "ninjas.gif"
-    ], 
+    ],
     "trigger": [
         "\\!ninjas"
-    ], 
+    ],
     "messages": [
         "A wild ninja posse appears!"
-    ], 
-    "fingerprint": "ninjas"
+    ],
+    "fingerprint": "bot-fingerprint"
 }

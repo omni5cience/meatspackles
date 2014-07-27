@@ -1,12 +1,12 @@
 {
     "gifs": [
         "coppa.gif"
-    ], 
+    ],
     "trigger": [
         "\\!coppa"
-    ], 
+    ],
     "messages": [
         "if you are under 15 please leave meatspace chat. it is illegal by law for you to be in here. go to bed."
-    ], 
-    "fingerprint": "coppa"
+    ],
+    "fingerprint": "bot-fingerprint"
 }

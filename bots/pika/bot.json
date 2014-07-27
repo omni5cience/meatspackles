@@ -1,20 +1,20 @@
 {
     "gifs": [
-        "pika.gif", 
-        "pika2.gif", 
-        "pika3.gif", 
-        "pika4.gif", 
-        "pika5.gif", 
+        "pika.gif",
+        "pika2.gif",
+        "pika3.gif",
+        "pika4.gif",
+        "pika5.gif",
         "pika6.gif"
-    ], 
+    ],
     "trigger": [
         "\\!pika"
-    ], 
+    ],
     "messages": [
-        "Pika pika!", 
-        "Pikalouuuu!", 
-        "Pika?", 
+        "Pika pika!",
+        "Pikalouuuu!",
+        "Pika?",
         "PI. KA. PIKA."
-    ], 
-    "fingerprint": "pika"
+    ],
+    "fingerprint": "bot-fingerprint"
 }

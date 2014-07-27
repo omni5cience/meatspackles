@@ -1,14 +1,14 @@
 {
     "gifs": [
         "submarinehook.gif"
-    ], 
+    ],
     "trigger": [
         "\\!submarinehook"
-    ], 
+    ],
     "messages": [
-        "I'm freeeeeee!", 
-        "Don't call me a skyhooker.", 
+        "I'm freeeeeee!",
+        "Don't call me a skyhooker.",
         "Watch me go!"
-    ], 
-    "fingerprint": "submarinehook"
+    ],
+    "fingerprint": "bot-fingerprint"
 }

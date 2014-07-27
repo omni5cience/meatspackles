@@ -1,12 +1,12 @@
 {
     "gifs": [
         "iloveyou.gif"
-    ], 
+    ],
     "trigger": [
         "\\!iloveyou"
-    ], 
+    ],
     "messages": [
         "You are so beautiful, and I love you."
-    ], 
-    "fingerprint": "iloveyou"
+    ],
+    "fingerprint": "bot-fingerprint"
 }

@@ -1,12 +1,12 @@
 {
     "gifs": [
         "dangerzone.gif"
-    ], 
+    ],
     "trigger": [
         "\\!dangerzone"
-    ], 
+    ],
     "messages": [
         "... danger zone."
-    ], 
-    "fingerprint": "dangerzone"
+    ],
+    "fingerprint": "bot-fingerprint"
 }

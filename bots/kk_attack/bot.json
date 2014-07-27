@@ -1,13 +1,13 @@
 {
     "gifs": [
         "attack.gif"
-    ], 
+    ],
     "trigger": [
         "[Kk]ing [Kk]ong [Aa]ttack!"
-    ], 
+    ],
     "messages": [
-        "ROAAAAAAAAAAR!", 
+        "ROAAAAAAAAAAR!",
         "GROOOWWWWWWL!!!!"
-    ], 
-    "fingerprint": "kk_attack"
+    ],
+    "fingerprint": "bot-fingerprint"
 }

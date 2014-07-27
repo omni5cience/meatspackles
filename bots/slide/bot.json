@@ -1,6 +1,6 @@
 {
   "trigger": "!slide",
-  "fingerprint": "slide",
+  "fingerprint": "bot-fingerprint",
   "messages": "410 Gone",
   "gifs": ["outtahere.gif", "calebslide.gif"]
 }

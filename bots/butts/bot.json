@@ -1,12 +1,12 @@
 {
     "gifs": [
         "butts.gif"
-    ], 
+    ],
     "trigger": [
         "\\!butts"
-    ], 
+    ],
     "messages": [
         "I'll be your butts bot!"
-    ], 
-    "fingerprint": "butts"
+    ],
+    "fingerprint": "bot-fingerprint"
 }

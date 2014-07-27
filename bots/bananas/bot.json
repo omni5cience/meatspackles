@@ -1,12 +1,12 @@
 {
     "gifs": [
         "bananas.gif"
-    ], 
+    ],
     "trigger": [
         "\\!bananas"
-    ], 
+    ],
     "messages": [
         "I'M GOIN BANANAS!"
-    ], 
-    "fingerprint": "bananas"
+    ],
+    "fingerprint": "bot-fingerprint"
 }

@@ -1,12 +1,12 @@
 {
     "gifs": [
         "sauron.gif"
-    ], 
+    ],
     "trigger": [
         "\\!sauron"
-    ], 
+    ],
     "messages": [
         "I   SEE   YOUUUUUUUUUU"
-    ], 
-    "fingerprint": "sauron"
+    ],
+    "fingerprint": "bot-fingerprint"
 }

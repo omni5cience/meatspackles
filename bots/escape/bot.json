@@ -1,12 +1,12 @@
 {
     "gifs": [
         "escape.gif"
-    ], 
+    ],
     "trigger": [
         "\\!escape"
-    ], 
+    ],
     "messages": [
         "Deploying !skyhook to escape!"
-    ], 
-    "fingerprint": "escape"
+    ],
+    "fingerprint": "bot-fingerprint"
 }

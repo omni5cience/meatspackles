@@ -1,6 +1,6 @@
 {
   "trigger": "!nipplecount",
-  "fingerprint": "nipplecount",
+  "fingerprint": "bot-fingerprint",
   "messages": "What's the nipple count at now?",
   "gifs": [
     "1.gif",

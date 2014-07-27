@@ -1,13 +1,13 @@
 {
     "gifs": [
         "fire.gif"
-    ], 
+    ],
     "trigger": [
-        "\\!feu", 
+        "\\!feu",
         "\\!invoquer"
-    ], 
+    ],
     "messages": [
         "feu!"
-    ], 
-    "fingerprint": "fire"
+    ],
+    "fingerprint": "bot-fingerprint"
 }

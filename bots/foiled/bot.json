@@ -1,15 +1,15 @@
 {
     "gifs": [
-        "foiled.gif", 
+        "foiled.gif",
         "foiled2.gif"
-    ], 
+    ],
     "trigger": [
         "\\!foiled"
-    ], 
+    ],
     "messages": [
-        "FOILED AGAIN!", 
-        "GAH!", 
+        "FOILED AGAIN!",
+        "GAH!",
         "BLAST!"
-    ], 
-    "fingerprint": "foiled"
+    ],
+    "fingerprint": "bot-fingerprint"
 }

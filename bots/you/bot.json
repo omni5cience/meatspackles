@@ -1,13 +1,13 @@
 {
     "gifs": [
         "you.gif"
-    ], 
+    ],
     "trigger": [
         "\\!you"
-    ], 
+    ],
     "messages": [
-        "YOUUUUUUU", 
+        "YOUUUUUUU",
         "HNNNGHGNGNNGHN"
-    ], 
-    "fingerprint": "you"
+    ],
+    "fingerprint": "bot-fingerprint"
 }

@@ -1,14 +1,14 @@
 {
     "gifs": [
         "proud.gif"
-    ], 
+    ],
     "trigger": [
         "\\!proud"
-    ], 
+    ],
     "messages": [
-        "You did a great job", 
-        "Look at you go", 
+        "You did a great job",
+        "Look at you go",
         "Wow, that was impressive"
-    ], 
-    "fingerprint": "proud"
+    ],
+    "fingerprint": "bot-fingerprint"
 }

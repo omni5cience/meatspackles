@@ -1,12 +1,12 @@
 {
     "gifs": [
         "puke.gif"
-    ], 
+    ],
     "trigger": [
         "\\!puke"
-    ], 
+    ],
     "messages": [
         "HNNNGNGHGHGNGNGHGNGNGHGNGHN!!!!"
-    ], 
-    "fingerprint": "puke"
+    ],
+    "fingerprint": "bot-fingerprint"
 }

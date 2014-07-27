@@ -1,13 +1,13 @@
 {
     "gifs": [
         "noby_attack.gif"
-    ], 
+    ],
     "trigger": [
-        "nobybro attack", 
+        "nobybro attack",
         "\\!peel"
-    ], 
+    ],
     "messages": [
         "I WILL PEEEEEL YOUUUUUU"
-    ], 
-    "fingerprint": "noby_attack"
+    ],
+    "fingerprint": "bot-fingerprint"
 }

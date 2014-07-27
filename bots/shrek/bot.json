@@ -1,12 +1,12 @@
 {
     "gifs": [
         "shrek.gif"
-    ], 
+    ],
     "trigger": [
         "\\!shrek"
-    ], 
+    ],
     "messages": [
         " "
-    ], 
-    "fingerprint": "shrek"
+    ],
+    "fingerprint": "bot-fingerprint"
 }

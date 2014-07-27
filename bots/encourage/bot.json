@@ -1,15 +1,15 @@
 {
     "gifs": [
         "encourage.gif"
-    ], 
+    ],
     "trigger": [
-        "\\!encouragement", 
+        "\\!encouragement",
         "\\!encourage"
-    ], 
+    ],
     "messages": [
-        "YOU CAN DO IT!", 
-        "GO GO GO!", 
+        "YOU CAN DO IT!",
+        "GO GO GO!",
         "YOU'RE ON YOUR WAY!"
-    ], 
-    "fingerprint": "encourage"
+    ],
+    "fingerprint": "bot-fingerprint"
 }

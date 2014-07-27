@@ -1,12 +1,12 @@
 {
     "gifs": [
         "working.gif"
-    ], 
+    ],
     "trigger": [
         "\\!working"
-    ], 
+    ],
     "messages": [
         "WORKING WORKING WORKING"
-    ], 
-    "fingerprint": "working"
+    ],
+    "fingerprint": "bot-fingerprint"
 }

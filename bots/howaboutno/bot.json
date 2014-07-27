@@ -1,12 +1,12 @@
 {
     "gifs": [
         "howaboutno.gif"
-    ], 
+    ],
     "trigger": [
         "\\!no"
-    ], 
+    ],
     "messages": [
         " "
-    ], 
-    "fingerprint": "howaboutno"
+    ],
+    "fingerprint": "bot-fingerprint"
 }

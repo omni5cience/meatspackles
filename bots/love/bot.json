@@ -1,12 +1,12 @@
 {
     "gifs": [
         "love.gif"
-    ], 
+    ],
     "trigger": [
         "\\!love"
-    ], 
+    ],
     "messages": [
         "One creature's torment is another creature's delight!"
-    ], 
-    "fingerprint": "love"
+    ],
+    "fingerprint": "bot-fingerprint"
 }

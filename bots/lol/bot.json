@@ -1,12 +1,12 @@
 {
     "gifs": [
         "lol.gif"
-    ], 
+    ],
     "trigger": [
         "\\!lol"
-    ], 
+    ],
     "messages": [
         "lol."
-    ], 
-    "fingerprint": "lol"
+    ],
+    "fingerprint": "bot-fingerprint"
 }

@@ -1,12 +1,12 @@
 {
     "gifs": [
         "highfive.gif"
-    ], 
+    ],
     "trigger": [
         "\\!highfive"
-    ], 
+    ],
     "messages": [
         "HIGH FIVE!"
-    ], 
-    "fingerprint": "highfive"
+    ],
+    "fingerprint": "bot-fingerprint"
 }

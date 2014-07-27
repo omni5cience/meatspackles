@@ -1,6 +1,6 @@
 {
   "trigger": "!dealwithit",
-  "fingerprint": "dealwithit",
+  "fingerprint": "bot-fingerprint",
   "messages": "Deal With It",
   "gifs": ["calebsunglasses.gif", "lbsunglasses.gif", "quickdrawsunglasses.gif"]
 }

@@ -1,12 +1,12 @@
 {
     "gifs": [
         "oops.gif"
-    ], 
+    ],
     "trigger": [
         "\\!oops"
-    ], 
+    ],
     "messages": [
         "All hands abandon ship!  ALL HANDS ABANDON SHIP!!!!"
-    ], 
-    "fingerprint": "oops"
+    ],
+    "fingerprint": "bot-fingerprint"
 }

@@ -1,12 +1,12 @@
 {
     "gifs": [
         "serve.gif"
-    ], 
+    ],
     "trigger": [
         "^[Vv]oltron serve"
-    ], 
+    ],
     "messages": [
         "You got served!"
-    ], 
-    "fingerprint": "serve"
+    ],
+    "fingerprint": "bot-fingerprint"
 }
