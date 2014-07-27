@@ -1,12 +1,11 @@
 {
     "gifs": [
         "sis_attack.gif"
-    ], 
+    ],
     "trigger": [
         "[Ss]isbro [Aa]ttack"
-    ], 
+    ],
     "messages": [
         "ROAAAARRARAGARABBLE!!!"
-    ], 
-    "fingerprint": "sis_attack"
+    ]
 }

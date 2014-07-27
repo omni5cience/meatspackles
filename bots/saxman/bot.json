@@ -1,12 +1,11 @@
 {
     "gifs": [
         "saxman.gif"
-    ], 
+    ],
     "trigger": [
         "\\!saxytime"
-    ], 
+    ],
     "messages": [
         "Sax."
-    ], 
-    "fingerprint": "saxman"
+    ]
 }

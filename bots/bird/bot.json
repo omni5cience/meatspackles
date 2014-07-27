@@ -1,12 +1,11 @@
 {
     "gifs": [
         "bird.gif"
-    ], 
+    ],
     "trigger": [
         "\\!bird"
-    ], 
+    ],
     "messages": [
         " "
-    ], 
-    "fingerprint": "bird"
+    ]
 }

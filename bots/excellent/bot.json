@@ -1,12 +1,11 @@
 {
     "gifs": [
         "excellent.gif"
-    ], 
+    ],
     "trigger": [
         "\\!excellent"
-    ], 
+    ],
     "messages": [
         "Party on!! Excellent!!"
-    ], 
-    "fingerprint": "excellent"
+    ]
 }

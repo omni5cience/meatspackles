@@ -1,12 +1,11 @@
 {
     "gifs": [
         "robotrollcall.gif"
-    ], 
+    ],
     "trigger": [
         "\\!rollcall"
-    ], 
+    ],
     "messages": [
         "ROBOT ROLL CALL!"
-    ], 
-    "fingerprint": "robotrollcall"
+    ]
 }

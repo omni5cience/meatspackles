@@ -1,12 +1,11 @@
 {
     "gifs": [
         "morn.gif"
-    ], 
+    ],
     "trigger": [
         "\\!morn"
-    ], 
+    ],
     "messages": [
         "."
-    ], 
-    "fingerprint": "morn"
+    ]
 }

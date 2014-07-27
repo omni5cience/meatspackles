@@ -1,14 +1,13 @@
 {
     "gifs": [
         "rickroll1.gif"
-    ], 
+    ],
     "trigger": [
         "\\!rickroll"
-    ], 
+    ],
     "messages": [
-        "Never gonna give you uuuuuup", 
-        "Never gonna let you down", 
+        "Never gonna give you uuuuuup",
+        "Never gonna let you down",
         "Never gonna run arouuuuund or desert you"
-    ], 
-    "fingerprint": "rickroll"
+    ]
 }

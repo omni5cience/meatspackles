@@ -1,12 +1,11 @@
 {
     "gifs": [
         "zuul.gif"
-    ], 
+    ],
     "trigger": [
         "\\!help"
-    ], 
+    ],
     "messages": [
         "THERE IS NO HELP THERE IS ONLY ZUUL"
-    ], 
-    "fingerprint": "zuul"
+    ]
 }

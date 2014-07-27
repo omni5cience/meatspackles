@@ -1,12 +1,11 @@
 {
     "gifs": [
         "globetrottin.gif"
-    ], 
+    ],
     "trigger": [
         "\\!globetrottin"
-    ], 
+    ],
     "messages": [
         "Dreams actually can come true!"
-    ], 
-    "fingerprint": "globetrottin"
+    ]
 }

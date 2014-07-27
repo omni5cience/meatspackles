@@ -1,14 +1,13 @@
 {
     "gifs": [
         "wisdom.gif"
-    ], 
+    ],
     "trigger": [
         "^[Zz]en [Mn]othra$"
-    ], 
+    ],
     "messages": [
-        "Sitting quiertly, doing nothing.", 
-        "The blue mountains are themselves blue mountains.", 
+        "Sitting quiertly, doing nothing.",
+        "The blue mountains are themselves blue mountains.",
         "Speech is blasphemy, silence a lie.  Above speech and silence there is a way out."
-    ], 
-    "fingerprint": "wisdom"
+    ]
 }

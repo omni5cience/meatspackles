@@ -1,12 +1,11 @@
 {
     "gifs": [
         "welcome.gif"
-    ], 
+    ],
     "trigger": [
         "\\!welcome"
-    ], 
+    ],
     "messages": [
         "Welcome, to Meatspace! [dramatic music]"
-    ], 
-    "fingerprint": "welcome"
+    ]
 }

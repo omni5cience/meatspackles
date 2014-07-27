@@ -1,12 +1,11 @@
 {
     "gifs": [
         "pancakes.gif"
-    ], 
+    ],
     "trigger": [
         "\\!pancakes"
-    ], 
+    ],
     "messages": [
         "Would you like more pancakes?"
-    ], 
-    "fingerprint": "pancakes"
+    ]
 }

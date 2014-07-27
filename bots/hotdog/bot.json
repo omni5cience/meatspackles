@@ -1,20 +1,19 @@
 {
     "gifs": [
-        "hotdog.gif", 
-        "hotdog2.gif", 
-        "hotdog3.gif", 
-        "hotdog4.gif", 
-        "hotdog5.gif", 
-        "hotdog6.gif", 
-        "hotdog7.gif", 
+        "hotdog.gif",
+        "hotdog2.gif",
+        "hotdog3.gif",
+        "hotdog4.gif",
+        "hotdog5.gif",
+        "hotdog6.gif",
+        "hotdog7.gif",
         "hotdog8.gif"
-    ], 
+    ],
     "trigger": [
-        "\\!hotdog", 
+        "\\!hotdog",
         "\\!candy"
-    ], 
+    ],
     "messages": [
         "Hot Diggety Dog!"
-    ], 
-    "fingerprint": "hotdog"
+    ]
 }

@@ -1,15 +1,14 @@
 {
     "gifs": [
-        "moot1.gif", 
-        "moot2.gif", 
-        "moot3.gif", 
+        "moot1.gif",
+        "moot2.gif",
+        "moot3.gif",
         "moot4.gif"
-    ], 
+    ],
     "trigger": [
         "\\!moot"
-    ], 
+    ],
     "messages": [
         "Your point is moot!"
-    ], 
-    "fingerprint": "moot"
+    ]
 }

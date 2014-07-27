@@ -1,12 +1,11 @@
 {
     "gifs": [
         "hacktheplanet.gif"
-    ], 
+    ],
     "trigger": [
         "\\![hH]ack [tT]he [pP]lanet"
-    ], 
+    ],
     "messages": [
         "Hack the Planet!"
-    ], 
-    "fingerprint": "hacktheplanet"
+    ]
 }

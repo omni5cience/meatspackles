@@ -1,12 +1,11 @@
 {
     "gifs": [
         "stahp.gif"
-    ], 
+    ],
     "trigger": [
         "\\!stahp"
-    ], 
+    ],
     "messages": [
         "gais.... stahp!"
-    ], 
-    "fingerprint": "stahp"
+    ]
 }

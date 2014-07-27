@@ -1,6 +1,5 @@
 {
   "trigger": "!nyan",
-  "fingerprint": "nyan",
   "messages": "NYAN",
   "gifs": "nyan.gif"
 }

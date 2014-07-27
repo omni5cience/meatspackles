@@ -1,12 +1,11 @@
 {
     "gifs": [
         "duane.gif"
-    ], 
+    ],
     "trigger": [
         "^!duane"
-    ], 
+    ],
     "messages": [
         "GO! GO! GO!"
-    ], 
-    "fingerprint": "duane"
+    ]
 }

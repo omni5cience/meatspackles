@@ -1,12 +1,11 @@
 {
     "gifs": [
         "jerrylewis.gif"
-    ], 
+    ],
     "trigger": [
         "\\!jerrylewis"
-    ], 
+    ],
     "messages": [
         "Hey, Laaaaaaady!"
-    ], 
-    "fingerprint": "jerrylewis"
+    ]
 }

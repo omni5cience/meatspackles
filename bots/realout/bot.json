@@ -1,6 +1,5 @@
 {
   "trigger": "!realout",
-  "fingerprint": "realout",
   "messages": "See ya in 30!",
   "gifs": "realout.gif"
 }
