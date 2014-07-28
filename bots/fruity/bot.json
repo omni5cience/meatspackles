@@ -1,0 +1,11 @@
+{
+    "gifs": [
+        "fruity.gif"
+    ],
+    "trigger": [
+        "\\!fruity"
+    ],
+    "messages": [
+        "Fruit Alert!"
+    ]
+}
