@@ -21,9 +21,7 @@ To submit a bot create a new folder in the `/bots` directory with:
   "caseSensitive": false, // [Optional] Defaults to false
 
   "messages": ["METAL!"],         // [Optional] A string or array of strings
-  "gifs": ["metalhand.gif", ...], // [Optional] A path or array of paths
-
-  "fingerprint": "metalbot", // A unique identifier for the bot
+  "gifs": ["metalhand.gif", ...] // [Optional] A path or array of paths
 }
 ```
 
