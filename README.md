@@ -10,7 +10,8 @@ Submitting a Bot
 
 To submit a bot create a new folder in the `/bots` directory with:
 - A `bot.json` file
-- Relevant GIFs (GIFs should be 135 x 101px and loop unless they're completely static)
+- Relevant GIFs – GIFs should be 135 x 101px and loop unless they're completely static.
+  (You can use http://ezgif.com/resize to resize GIFs if you need to.)
 
 `bot.json`
 ==========
