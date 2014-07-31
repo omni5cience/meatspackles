@@ -1,11 +1,5 @@
 {
-    "gifs": [
-        "bananas.gif"
-    ],
-    "trigger": [
-        "\\!bananas"
-    ],
-    "messages": [
-        "I'M GOIN BANANAS!"
-    ]
+    "gifs": "bananas.gif",
+    "trigger": "\\!bananas?",
+    "messages": "I'M GOIN BANANAS!"
 }
