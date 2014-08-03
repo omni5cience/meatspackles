@@ -1,14 +1,12 @@
 {
-    "gifs": [
-        "appear_1.gif",
-        "appear_2.gif"
-    ],
-    "trigger": [
-        "^[Gg]odzilla$"
-    ],
-    "messages": [
-        "A wild Godzilla appears!",
-        "Up from the depths, 30 stories high!",
-        "You hear that? Godzilla!"
-    ]
+  "trigger": "godzilla appear",
+  "gifs": [
+    "appear_1.gif",
+    "appear_2.gif"
+  ],
+  "messages": [
+    "Gojira may be the answer. I bet he's here to restore balance. He can defeat them.",
+    "Up from the depths, 30 stories high!",
+    "RAWWWWWWWWWWR"
+  ]
 }

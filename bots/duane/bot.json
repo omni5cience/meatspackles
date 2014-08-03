@@ -1,11 +1,5 @@
 {
-    "gifs": [
-        "duane.gif"
-    ],
-    "trigger": [
-        "^!duane"
-    ],
-    "messages": [
-        "GO! GO! GO!"
-    ]
+  "trigger": "!duane",
+  "gifs": "duane.gif",
+  "messages": "GO! GO! GO!"
 }

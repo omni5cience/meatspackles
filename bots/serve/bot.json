@@ -1,11 +1,5 @@
 {
-    "gifs": [
-        "serve.gif"
-    ],
-    "trigger": [
-        "^[Vv]oltron serve"
-    ],
-    "messages": [
-        "You got served!"
-    ]
+  "trigger": "voltron serve",
+  "gifs": "serve.gif",
+  "messages": "You got served!"
 }

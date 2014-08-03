@@ -1,11 +1,5 @@
 {
-    "gifs": [
-        "morn.gif"
-    ],
-    "trigger": [
-        "\\!morn"
-    ],
-    "messages": [
-        "."
-    ]
+  "trigger": "!morn",
+  "gifs": "morn.gif",
+  "messages": "... are there any !coppa people here?"
 }

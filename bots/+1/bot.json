@@ -1,5 +1,5 @@
 {
   "trigger": "!\\+1",
-  "messages": "+1",
-  "gifs": "+1.gif"
+  "gifs": "+1.gif",
+  "messages": "+1"
 }

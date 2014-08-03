@@ -1,11 +1,5 @@
 {
-    "gifs": [
-        "puke.gif"
-    ],
-    "trigger": [
-        "\\!puke"
-    ],
-    "messages": [
-        "HNNNGNGHGHGNGNGHGNGNGHGNGHN!!!!"
-    ]
+  "trigger": "!puke",
+  "gifs": "puke.gif",
+  "messages": "HNNNGNGHGHGNGNGHGNGNGHGNGHN!!!!"
 }

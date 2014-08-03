@@ -1,11 +1,5 @@
 {
-    "gifs": [
-        "highfive.gif"
-    ],
-    "trigger": [
-        "\\!highfive"
-    ],
-    "messages": [
-        "HIGH FIVE!"
-    ]
+  "trigger": "!highfive",
+  "gifs": "highfive.gif",
+  "messages": "HIGH FIVE!"
 }

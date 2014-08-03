@@ -1,12 +1,8 @@
 {
-    "gifs": [
-        "you.gif"
-    ],
-    "trigger": [
-        "\\!you"
-    ],
-    "messages": [
-        "YOUUUUUUU",
-        "HNNNGHGNGNNGHN"
-    ]
+  "trigger": "!you",
+  "gifs": "you.gif",
+  "messages": [
+    "YOUUUUUUU",
+    "HNNNGHGNGNNGHN"
+  ]
 }

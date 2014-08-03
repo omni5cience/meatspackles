@@ -1,11 +1,4 @@
 {
-    "gifs": [
-        "howaboutno.gif"
-    ],
-    "trigger": [
-        "\\!no"
-    ],
-    "messages": [
-        " "
-    ]
+  "trigger": "!nope",
+  "gifs": "howaboutno.gif"
 }

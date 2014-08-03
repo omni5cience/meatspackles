@@ -1,5 +1,11 @@
 {
-  "trigger": "!hypnocat",
-  "messages": ["ALL HAIL HYPNOCAT!", "ALL GLORY TO THE HYPNOCAT"],
-  "gifs": "hypnocat.gif"
+  "trigger": [
+    "!hypnocat",
+    "frida attack"
+  ],
+  "gifs": "hypnocat.gif",
+  "messages": [
+    "ALL HAIL HYPNOCAT!",
+    "ALL GLORY TO THE HYPNOCAT"
+  ]
 }

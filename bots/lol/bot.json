@@ -1,11 +1,5 @@
 {
-    "gifs": [
-        "lol.gif"
-    ],
-    "trigger": [
-        "\\!lol"
-    ],
-    "messages": [
-        "lol."
-    ]
+  "trigger": "!lol",
+  "gifs": "lol.gif",
+  "messages": "lol."
 }

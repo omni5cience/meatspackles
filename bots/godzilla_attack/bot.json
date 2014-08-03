@@ -1,13 +1,12 @@
 {
-    "gifs": [
-        "godzilla_attack_1.gif",
-        "godzilla_attack_2.gif"
-    ],
-    "trigger": [
-        "[Gg]odzilla [Aa]ttack!"
-    ],
-    "messages": [
-        "SKREEEEEEEEEAAAAAONGK!!!",
-        "FWOOOOOOOOOOOOSH!!!"
-    ]
+  "trigger": "godzilla attack",
+  "gifs": [
+    "godzilla_attack_1.gif",
+    "godzilla_attack_2.gif"
+  ],
+  "messages": [
+    "SKREEEEEEEEEAAAAAONGK!!!",
+    "FWOOOOOOOOOOOOSH!!!",
+    "The arrogance of men is thinking nature is in their control and not the other way around. Let them fight."
+  ]
 }

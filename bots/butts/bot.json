@@ -1,11 +1,5 @@
 {
-    "gifs": [
-        "butts.gif"
-    ],
-    "trigger": [
-        "\\!butts"
-    ],
-    "messages": [
-        "I'll be your butts bot!"
-    ]
+  "trigger": "!butts",
+  "gifs": "butts.gif",
+  "messages": "I'll be your butts bot!"
 }

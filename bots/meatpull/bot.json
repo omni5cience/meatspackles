@@ -1,13 +1,9 @@
 {
-    "gifs": [
-        "meatpull.gif"
-    ],
-    "trigger": [
-        "meatspace.+feature",
-        "feature.+meatspace",
-        "\\!pull"
-    ],
-    "messages": [
-        "THAT'S A GREAT IDEA PULL REQUESTS ACCEPTED https://github.com/meatspaces/meatspace-chat"
-    ]
+  "trigger": [
+    "meatspac.+feature",
+    "feature.+meatspac",
+    "!pull"
+  ],
+  "gifs": "meatpull.gif",
+  "messages": "THAT'S A GREAT IDEA PULL REQUESTS ACCEPTED https://github.com/meatspaces/meatspace-chat"
 }

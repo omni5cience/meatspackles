@@ -1,11 +1,5 @@
 {
-    "gifs": [
-        "working.gif"
-    ],
-    "trigger": [
-        "\\!working"
-    ],
-    "messages": [
-        "WORKING WORKING WORKING"
-    ]
+  "trigger": "!working",
+  "gifs": "working.gif",
+  "messages": "WORKING WORKING WORKING"
 }

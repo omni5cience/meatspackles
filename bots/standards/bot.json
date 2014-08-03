@@ -1,11 +1,5 @@
 {
-    "gifs": [
-        "standards.gif"
-    ],
-    "trigger": [
-        "\\!standards"
-    ],
-    "messages": [
-        "lol standards"
-    ]
+  "trigger": "!standards",
+  "gifs": "standards.gif",
+  "messages": "lol standards"
 }

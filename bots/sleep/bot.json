@@ -1,5 +1,5 @@
 {
   "trigger": "!sleep",
-  "messages": "And...sleep!",
-  "gifs": "sleepybunny.gif"
+  "gifs": "sleep.gif",
+  "messages": "And...sleep!"
 }

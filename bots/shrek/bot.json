@@ -1,11 +1,5 @@
 {
-    "gifs": [
-        "shrek.gif"
-    ],
-    "trigger": [
-        "\\!shrek"
-    ],
-    "messages": [
-        " "
-    ]
+  "trigger": "!shrek",
+  "gifs": "shrek.gif",
+  "messages": "shrek is love, shrek is life."
 }

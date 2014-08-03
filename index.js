@@ -1,5 +1,5 @@
 var Meatspace = require('./lib/meatspace');
-var meatspackles = require('./lib/meatspackles')
+var meatspackles = require('./lib/meatspackles');
 var bots;
 
 function setupBots(){
@@ -17,4 +17,3 @@ function setupBots(){
 }
 
 setupBots();
-

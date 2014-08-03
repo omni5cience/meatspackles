@@ -1,5 +1,9 @@
 {
   "trigger": "!datloop",
-  "messages": "DAT LOOP",
-  "gifs": ["Soviet.gif", "ToddLoops.gif", "Midi.gif"]
+  "gifs": [
+    "datloop1.gif",
+    "datloop2.gif",
+    "datloop3.gif"
+  ],
+  "messages": "DAT LOOP"
 }

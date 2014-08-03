@@ -1,12 +1,8 @@
 {
-    "gifs": [
-        "slamdunk.gif"
-    ],
-    "trigger": [
-        "\\!slamdunk"
-    ],
-    "messages": [
-        "Come on and slam, and welcome to the jam",
-        "Come on and slam, if you wanna jam"
-    ]
+  "trigger": "!slamdunk",
+  "gifs": "slamdunk.gif",
+  "messages": [
+    "Come on and slam, and welcome to the jam",
+    "Come on and slam, if you wanna jam"
+  ]
 }

@@ -1,5 +1,8 @@
 {
   "trigger": "!ironmeat",
-  "messages": ["I am IronMeat", "Actually, I AM a bot"],
-  "gifs": "ironmeat.gif"
+  "gifs": "ironmeat.gif",
+  "messages": [
+    "I am IronMeat",
+    "Actually, I AM a bot"
+  ]
 }

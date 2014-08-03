@@ -1,11 +1,5 @@
 {
-    "gifs": [
-        "zuul.gif"
-    ],
-    "trigger": [
-        "\\!help"
-    ],
-    "messages": [
-        "THERE IS NO HELP THERE IS ONLY ZUUL"
-    ]
+  "trigger": "!h[a|e]lp",
+  "gifs": "zuul.gif",
+  "messages": "THERE IS NO HELP THERE IS ONLY ZUUL"
 }

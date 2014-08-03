@@ -1,11 +1,5 @@
 {
-    "gifs": [
-        "mindblown.gif"
-    ],
-    "trigger": [
-        "\\!mindblown"
-    ],
-    "messages": [
-        "PWOOOOH PWOOOOSSH BWOOOOOOAH BWOOOAAAHHH PWOOOOOOOSH"
-    ]
+  "trigger": "!mindblown",
+  "gifs": "mindblown.gif",
+  "messages": "PWOOOOH PWOOOOSSH BWOOOOOOAH BWOOOAAAHHH PWOOOOOOOSH"
 }

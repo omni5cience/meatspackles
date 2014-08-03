@@ -1,12 +1,8 @@
 {
-    "gifs": [
-        "leanin1.gif",
-        "leanin2.gif"
-    ],
-    "trigger": [
-        "\\!lean"
-    ],
-    "messages": [
-        "KISS MEEEEEE!"
-    ]
+  "trigger": "!lean",
+  "gifs": [
+    "leanin1.gif",
+    "leanin2.gif"
+  ],
+  "messages": "KISS MEEEEEE!"
 }

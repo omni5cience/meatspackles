@@ -1,11 +1,12 @@
 {
   "trigger": "!nipplecount",
-  "messages": "What's the nipple count at now?",
   "gifs": [
-    "1.gif",
-    "adamnipple.gif",
-    "adamnipple2.gif",
-    "oslonip.gif",
-    "tim.gif"
-  ]
+    "nipplecount1.gif",
+    "nipplecount2.gif",
+    "nipplecount3.gif",
+    "nipplecount4.gif",
+    "nipplecount5.gif",
+    "nipplecount6.gif"
+  ],
+  "messages": "What's the nipple count at now?"
 }

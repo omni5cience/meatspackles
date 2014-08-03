@@ -1,11 +1,5 @@
 {
-    "gifs": [
-        "saxman.gif"
-    ],
-    "trigger": [
-        "\\!saxytime"
-    ],
-    "messages": [
-        "Sax."
-    ]
+  "trigger": "!saxytime",
+  "gifs": "saxman.gif",
+  "messages": "Sax."
 }

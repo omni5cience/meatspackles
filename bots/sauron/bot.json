@@ -1,11 +1,5 @@
 {
-    "gifs": [
-        "sauron.gif"
-    ],
-    "trigger": [
-        "\\!sauron"
-    ],
-    "messages": [
-        "I   SEE   YOUUUUUUUUUU"
-    ]
+  "trigger": "!sauron",
+  "gifs": "sauron.gif",
+  "messages": "I   SEE   YOUUUUUUUUUU"
 }

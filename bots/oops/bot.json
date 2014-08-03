@@ -1,11 +1,5 @@
 {
-    "gifs": [
-        "oops.gif"
-    ],
-    "trigger": [
-        "\\!oops"
-    ],
-    "messages": [
-        "All hands abandon ship!  ALL HANDS ABANDON SHIP!!!!"
-    ]
+  "trigger": "!oops",
+  "gifs": "oops.gif",
+  "messages": "All hands abandon ship!  ALL HANDS ABANDON SHIP!!!!"
 }

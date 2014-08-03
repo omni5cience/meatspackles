@@ -1,14 +1,12 @@
 {
-    "gifs": [
-        "foiled.gif",
-        "foiled2.gif"
-    ],
-    "trigger": [
-        "\\!foiled"
-    ],
-    "messages": [
-        "FOILED AGAIN!",
-        "GAH!",
-        "BLAST!"
-    ]
+  "trigger": "!foiled",
+  "gifs": [
+    "foiled1.gif",
+    "foiled2.gif"
+  ],
+  "messages": [
+    "FOILED AGAIN!",
+    "GAH!",
+    "BLAST!"
+  ]
 }

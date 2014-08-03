@@ -1,11 +1,5 @@
 {
-    "gifs": [
-        "stahp.gif"
-    ],
-    "trigger": [
-        "\\!stahp"
-    ],
-    "messages": [
-        "gais.... stahp!"
-    ]
+  "trigger": "!stahp",
+  "gifs": "stahp.gif",
+  "messages": "gais.... stahp!"
 }

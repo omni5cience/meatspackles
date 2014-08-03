@@ -1,11 +1,4 @@
 {
-    "gifs": [
-        "dickbutt.gif"
-    ],
-    "trigger": [
-        "\\!dickbutt"
-    ],
-    "messages": [
-        " "
-    ]
+  "trigger": "!dickbutt",
+  "gifs": "dickbutt.gif"
 }

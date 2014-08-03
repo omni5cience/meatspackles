@@ -1,11 +1,5 @@
 {
-    "gifs": [
-        "happening.gif"
-    ],
-    "trigger": [
-        "\\!happening"
-    ],
-    "messages": [
-        "It's happening!"
-    ]
+  "trigger": "!happening",
+  "gifs": "happening.gif",
+  "messages": "It's happening!"
 }

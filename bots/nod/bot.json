@@ -1,5 +1,9 @@
 {
   "trigger": "!nod",
-  "messages": ["I agree", "Nods", "I concur"],
-  "gifs": "nod.gif"
+  "gifs": "nod.gif",
+  "messages": [
+    "I agree",
+    "Nods",
+    "I concur"
+  ]
 }

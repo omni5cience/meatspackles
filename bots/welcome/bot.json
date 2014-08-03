@@ -1,11 +1,5 @@
 {
-    "gifs": [
-        "welcome.gif"
-    ],
-    "trigger": [
-        "\\!welcome"
-    ],
-    "messages": [
-        "Welcome, to Meatspace! [dramatic music]"
-    ]
+  "trigger": "!welcome",
+  "gifs": "welcome.gif",
+  "messages": "Welcome, to Meatspace! [dramatic music]"
 }

@@ -1,11 +1,5 @@
 {
-    "gifs": [
-        "myemotions.gif"
-    ],
-    "trigger": [
-        "\\!myemotions"
-    ],
-    "messages": [
-        "MY EMOTIONS!"
-    ]
+  "trigger": "!myemotions",
+  "gifs": "myemotions.gif",
+  "messages": "MY EMOTIONS!"
 }

@@ -1,5 +1,5 @@
 {
   "trigger": "!nyan",
-  "messages": "NYAN",
-  "gifs": "nyan.gif"
+  "gifs": "nyan.gif",
+  "messages": "NYAN"
 }

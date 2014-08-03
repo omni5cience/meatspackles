@@ -1,12 +1,8 @@
 {
-    "gifs": [
-        "kk_appear.gif"
-    ],
-    "trigger": [
-        "^[Kk]ing [Kk]ong$"
-    ],
-    "messages": [
-        "A wild King Kong appears!",
-        "Have you ever heard of... Kong?!"
-    ]
+  "trigger": "king kong appear",
+  "gifs": "kk_appear.gif",
+  "messages": [
+    "A wild King Kong appears!",
+    "Have you ever heard of... Kong?!"
+  ]
 }

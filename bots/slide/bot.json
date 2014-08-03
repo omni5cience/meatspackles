@@ -1,5 +1,9 @@
 {
   "trigger": "!slide",
-  "messages": "410 Gone",
-  "gifs": ["outtahere.gif", "calebslide.gif", "toddslide.gif"]
+  "gifs": [
+    "slide1.gif",
+    "slide2.gif",
+    "slide3.gif"
+  ],
+  "messages": "410 Gone"
 }

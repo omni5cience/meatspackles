@@ -1,0 +1,5 @@
+{
+  "trigger": "!rollcall",
+  "gifs": "rollcall.gif",
+  "messages": "ROBOT ROLL CALL!"
+}

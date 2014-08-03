@@ -1,11 +1,5 @@
 {
-    "gifs": [
-        "sis_attack.gif"
-    ],
-    "trigger": [
-        "[Ss]isbro [Aa]ttack"
-    ],
-    "messages": [
-        "ROAAAARRARAGARABBLE!!!"
-    ]
+  "trigger": "sisbro attack",
+  "gifs": "sis_attack.gif",
+  "messages": "ROAAAARRARAGARABBLE!!!"
 }

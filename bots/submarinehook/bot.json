@@ -1,13 +1,9 @@
 {
-    "gifs": [
-        "submarinehook.gif"
-    ],
-    "trigger": [
-        "\\!submarinehook"
-    ],
-    "messages": [
-        "I'm freeeeeee!",
-        "Don't call me a skyhooker.",
-        "Watch me go!"
-    ]
+  "trigger": "!submarinehook",
+  "gifs": "submarinehook.gif",
+  "messages": [
+    "I'm freeeeeee!",
+    "Don't call me a skyhooker.",
+    "Watch me go!"
+  ]
 }

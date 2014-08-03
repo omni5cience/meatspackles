@@ -1,11 +1,4 @@
 {
-    "gifs": [
-        "bird.gif"
-    ],
-    "trigger": [
-        "\\!bird"
-    ],
-    "messages": [
-        " "
-    ]
+  "trigger": "!bird",
+  "gifs": "bird.gif"
 }

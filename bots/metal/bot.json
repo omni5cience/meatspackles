@@ -1,5 +1,9 @@
 {
   "trigger": "!metal",
-  "messages": "METAL!",
-  "gifs": ["metalhand.gif", "metalrenee.gif", "metalzanditroll.gif"]
+  "gifs": [
+    "metal1.gif",
+    "metal2.gif",
+    "metal3.gif"
+  ],
+  "messages": "METAL!"
 }

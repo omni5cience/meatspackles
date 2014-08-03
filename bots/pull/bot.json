@@ -1,13 +1,9 @@
 {
-    "gifs": [
-        "pull.gif"
-    ],
-    "trigger": [
-        "bot.+feature",
-        "feature.+bot",
-        "\\!pull"
-    ],
-    "messages": [
-        "THAT'S A GREAT IDEA PULL REQUESTS ACCEPTED http://taotetek.github.io/meatmonsters/"
-    ]
+  "trigger": [
+    "bot.+feature",
+    "feature.+bot",
+    "!pull"
+  ],
+  "gifs": "pull.gif",
+  "messages": "THAT'S A GREAT IDEA PULL REQUESTS ACCEPTED https://github.com/omni5cience/meatspackles"
 }

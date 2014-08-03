@@ -1,19 +1,17 @@
 {
-    "gifs": [
-        "pika.gif",
-        "pika2.gif",
-        "pika3.gif",
-        "pika4.gif",
-        "pika5.gif",
-        "pika6.gif"
-    ],
-    "trigger": [
-        "\\!pika"
-    ],
-    "messages": [
-        "Pika pika!",
-        "Pikalouuuu!",
-        "Pika?",
-        "PI. KA. PIKA."
-    ]
+  "trigger": "!pika",
+  "gifs": [
+    "pika1.gif",
+    "pika2.gif",
+    "pika3.gif",
+    "pika4.gif",
+    "pika5.gif",
+    "pika6.gif"
+  ],
+  "messages": [
+    "Pika pika!",
+    "Pikalouuuu!",
+    "Pika?",
+    "PI. KA. PIKA."
+  ]
 }

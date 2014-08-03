@@ -1,11 +1,5 @@
 {
-    "gifs": [
-        "rave.gif"
-    ],
-    "trigger": [
-        "\\!rave"
-    ],
-    "messages": [
-        "Set phasers to rave!"
-    ]
+  "trigger": "!rave",
+  "gifs": "rave.gif",
+  "messages": "Set phasers to rave!"
 }

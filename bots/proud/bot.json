@@ -1,13 +1,9 @@
 {
-    "gifs": [
-        "proud.gif"
-    ],
-    "trigger": [
-        "\\!proud"
-    ],
-    "messages": [
-        "You did a great job",
-        "Look at you go",
-        "Wow, that was impressive"
-    ]
+  "trigger": "!proud",
+  "gifs": "proud.gif",
+  "messages": [
+    "You did a great job",
+    "Look at you go",
+    "Wow, that was impressive"
+  ]
 }

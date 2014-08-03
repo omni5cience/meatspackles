@@ -1,11 +1,5 @@
 {
-    "gifs": [
-        "point.gif"
-    ],
-    "trigger": [
-        "\\!point"
-    ],
-    "messages": [
-        "You've got a point!"
-    ]
+  "trigger": "!point",
+  "gifs": "point.gif",
+  "messages": "You've got a point!"
 }

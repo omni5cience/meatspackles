@@ -1,16 +1,10 @@
 {
-    "gifs": [
-        "whattheysaid.gif"
-    ],
-    "trigger": [
-        "\\!whathesaid",
-        "\\!whatshesaid",
-        "\\!whattheysaid"
-    ],
-    "messages": [
-        "I agree with gusto.",
-        "I vigorously approve.",
-        "That\u2019s basically genuis.",
-        "Somebody present this person with a medal, immediately."
-    ]
+  "trigger": "!what(?:s?he|they)said",
+  "gifs": "whattheysaid.gif",
+  "messages": [
+    "I agree with gusto.",
+    "I vigorously approve.",
+    "That's basically genuis.",
+    "Somebody present this person with a medal, immediately."
+  ]
 }

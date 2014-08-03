@@ -1,11 +1,5 @@
 {
-    "gifs": [
-        "escape.gif"
-    ],
-    "trigger": [
-        "\\!escape"
-    ],
-    "messages": [
-        "Deploying !skyhook to escape!"
-    ]
+  "trigger": "!escape",
+  "gifs": "escape.gif",
+  "messages": "Deploying !skyhook to escape!"
 }

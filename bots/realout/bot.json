@@ -1,5 +1,5 @@
 {
   "trigger": "!realout",
-  "messages": "See ya in 30!",
-  "gifs": "realout.gif"
+  "gifs": "realout.gif",
+  "messages": "See ya in 30!"
 }

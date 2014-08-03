@@ -1,12 +1,8 @@
 {
-    "gifs": [
-        "tell.gif"
-    ],
-    "trigger": [
-        "[tT]ell [mM]e [mM]ore"
-    ],
-    "messages": [
-        "I'm interested in what you're selling.",
-        "Do go on..."
-    ]
+  "trigger": "tell me more",
+  "gifs": "tell.gif",
+  "messages": [
+    "I'm interested in what you're selling.",
+    "Do go on..."
+  ]
 }

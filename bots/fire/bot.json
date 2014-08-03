@@ -1,12 +1,8 @@
 {
-    "gifs": [
-        "fire.gif"
-    ],
-    "trigger": [
-        "\\!feu",
-        "\\!invoquer"
-    ],
-    "messages": [
-        "feu!"
-    ]
+  "trigger": [
+    "!feu",
+    "!invoquer"
+  ],
+  "gifs": "fire.gif",
+  "messages": "feu!"
 }

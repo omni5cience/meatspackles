@@ -1,13 +1,9 @@
 {
-    "gifs": [
-        "catout.gif"
-    ],
-    "trigger": [
-        "\\!catout"
-    ],
-    "messages": [
-        "I'm meowwwttta here!",
-        "See ya in 30, mroww...",
-        "Cat you on the flipside."
-    ]
+  "trigger": "!catout",
+  "gifs": "catout.gif",
+  "messages": [
+    "I'm meowwwttta here!",
+    "See ya in 30, mroww...",
+    "Cat you on the flipside."
+  ]
 }

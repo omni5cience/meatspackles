@@ -1,11 +1,5 @@
 {
-    "gifs": [
-        "jerrylewis.gif"
-    ],
-    "trigger": [
-        "\\!jerrylewis"
-    ],
-    "messages": [
-        "Hey, Laaaaaaady!"
-    ]
+  "trigger": "!jerrylewis",
+  "gifs": "jerrylewis.gif",
+  "messages": "Hey, Laaaaaaady!"
 }

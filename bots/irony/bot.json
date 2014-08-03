@@ -1,12 +1,5 @@
 {
-    "gifs": [
-        "irony.gif"
-    ],
-    "trigger": [
-        "\\!ironic",
-        "\\!irony"
-    ],
-    "messages": [
-        "Isn't it ironic?"
-    ]
+  "trigger": "!iron(?:ic|y)",
+  "gifs": "irony.gif",
+  "messages": "Isn't it ironic?"
 }

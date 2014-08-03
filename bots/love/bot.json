@@ -1,11 +1,5 @@
 {
-    "gifs": [
-        "love.gif"
-    ],
-    "trigger": [
-        "\\!love"
-    ],
-    "messages": [
-        "One creature's torment is another creature's delight!"
-    ]
+  "trigger": "!love",
+  "gifs": "love.gif",
+  "messages": "One creature's torment is another creature's delight!"
 }

@@ -1,8 +1,5 @@
 {
-    "gifs":
-        "fruity.gif",
-    "trigger":
-        "\\!fruity",
-    "messages": 
-        "Fruit Alert!"
+  "trigger": "!fruity",
+  "gifs": "fruity.gif",
+  "messages": "Fruit Alert!"
 }

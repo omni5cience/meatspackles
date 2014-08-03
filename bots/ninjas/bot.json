@@ -1,11 +1,5 @@
 {
-    "gifs": [
-        "ninjas.gif"
-    ],
-    "trigger": [
-        "\\!ninjas"
-    ],
-    "messages": [
-        "A wild ninja posse appears!"
-    ]
+  "trigger": "!ninjas",
+  "gifs": "ninjas.gif",
+  "messages": "A wild ninja posse appears!"
 }

@@ -1,11 +1,5 @@
 {
-    "gifs": [
-        "out.gif"
-    ],
-    "trigger": [
-        "\\!out"
-    ],
-    "messages": [
-        "See ya in 30!"
-    ]
+  "trigger": "!out",
+  "gifs": "out.gif",
+  "messages": "See ya in 30!"
 }

@@ -1,13 +1,9 @@
 {
-    "gifs": [
-        "storm0.gif"
-    ],
-    "trigger": [
-        "\\!storm"
-    ],
-    "messages": [
-        "Thunder and lightning — very very frightening!",
-        "Just a little rain, no boggie.",
-        "Stormy weather!"
-    ]
+  "trigger": "!storm",
+  "gifs": "storm.gif",
+  "messages": [
+    "Thunder and lightning — very very frightening!",
+    "Just a little rain, no boggie.",
+    "Stormy weather!"
+  ]
 }

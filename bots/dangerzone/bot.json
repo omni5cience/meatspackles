@@ -1,11 +1,5 @@
 {
-    "gifs": [
-        "dangerzone.gif"
-    ],
-    "trigger": [
-        "\\!dangerzone"
-    ],
-    "messages": [
-        "... danger zone."
-    ]
+  "trigger": "!dangerzone",
+  "gifs": "dangerzone.gif",
+  "messages": "... danger zone."
 }

@@ -1,5 +1,5 @@
 {
   "trigger": "!study",
-  "messages": "you gotta study.",
-  "gifs": "study.gif"
+  "gifs": "study.gif",
+  "messages": "you gotta study."
 }

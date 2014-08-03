@@ -1,12 +1,12 @@
 {
-    "gifs": "bananas.gif",
-    "trigger": [
-        "!bananas?",
-        "!peel",
-        "noby attack"
-    ],
-    "messages": [
-        "I'M GOIN BANANAS!",
-        "I WILL PEEEEEL YOUUUUUU"
-    ]
+  "trigger": [
+    "!bananas?",
+    "!peel",
+    "noby attack"
+  ],
+  "gifs": "bananas.gif",
+  "messages": [
+    "I'M GOIN BANANAS!",
+    "I WILL PEEEEEL YOUUUUUU"
+  ]
 }

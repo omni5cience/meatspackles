@@ -1,12 +1,8 @@
 {
-    "gifs": [
-        "attack.gif"
-    ],
-    "trigger": [
-        "[Kk]ing [Kk]ong [Aa]ttack!"
-    ],
-    "messages": [
-        "ROAAAAAAAAAAR!",
-        "GROOOWWWWWWL!!!!"
-    ]
+  "trigger": "king kong attack",
+  "gifs": "attack.gif",
+  "messages": [
+    "ROAAAAAAAAAAR!",
+    "GROOOWWWWWWL!!!!"
+  ]
 }

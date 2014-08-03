@@ -1,16 +1,12 @@
 {
-    "gifs": [
-        "doge.gif"
-    ],
-    "trigger": [
-        "\\!doge"
-    ],
-    "messages": [
-        "Wow so much meats here..",
-        "Wow it's global",
-        "Wow it's a gif chat",
-        "Wow too much people",
-        "wow so cold here",
-        "wow so hot here"
-    ]
+  "trigger": "!doge",
+  "gifs": "doge.gif",
+  "messages": [
+    "wow so much meats here..",
+    "wow it's global",
+    "wow it's a gif chat",
+    "wow too much people",
+    "wow so cold here",
+    "wow so hot here"
+  ]
 }

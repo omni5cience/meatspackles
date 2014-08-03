@@ -1,5 +1,8 @@
 {
   "trigger": "!dealwithit",
-  "messages": "Deal With It",
-  "gifs": ["calebsunglasses.gif", "lbsunglasses.gif", "quickdrawsunglasses.gif"]
+  "gifs": [
+    "dealwithit1.gif",
+    "dealwithit2.gif",
+    "dealwithit3.gif"
+  ]
 }

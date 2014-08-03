@@ -1,11 +1,5 @@
 {
-    "gifs": [
-        "excellent.gif"
-    ],
-    "trigger": [
-        "\\!excellent"
-    ],
-    "messages": [
-        "Party on!! Excellent!!"
-    ]
+  "trigger": "!excellent",
+  "gifs": "excellent.gif",
+  "messages": "Party on!! Excellent!!"
 }
