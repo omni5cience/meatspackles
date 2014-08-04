@@ -1,4 +1,4 @@
 {
-  "trigger": "!nope",
+  "trigger": "!no\b",
   "gifs": "howaboutno.gif"
 }
