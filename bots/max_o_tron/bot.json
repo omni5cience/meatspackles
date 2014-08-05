@@ -1,0 +1,15 @@
+{
+  "trigger": "!maxogden",
+  "gifs": [
+    "max0.gif",
+    "max1.gif",
+    "max2.gif",
+    "max3.gif"
+  ],
+  "messages": [
+    "I prefer conferences where the speakers are more active on GitHub than LinkedIn.",
+    "It's very hard to program a computer to do this.",
+    "It's like a magnet of serendipity",
+    ""
+  ]
+}
