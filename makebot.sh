@@ -5,9 +5,8 @@ mkdir -p "bots/$1"
 cat <<EOF > "bots/$1/bot.json"
 {
   "trigger": "!$1",
-  "fingerprint": "$1",
-  "messages": "$2",
-  "gifs": "$1.gif"
+  "gifs": "$1.gif",
+  "messages": "$2"
 }
 EOF
 
