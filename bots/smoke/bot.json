@@ -1,6 +1,6 @@
 {
   "trigger":
-    "!smoke"
+    "!smoke",
   "gifs": [
     "smoke1.gif",
     "smoke2.gif",
