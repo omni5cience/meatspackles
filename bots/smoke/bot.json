@@ -1,0 +1,15 @@
+{
+  "trigger":
+    "!smoke",
+  "gifs": [
+    "smoke1.gif",
+    "smoke2.gif",
+    "smoke3.gif"
+  ],
+  "messages": [
+    "smoke it like a pro.",
+    "smoke it through your nose.",
+    "smoke is air.",
+    "smoke like you're on fire."
+  ]
+}
