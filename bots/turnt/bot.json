@@ -1,5 +1,8 @@
 {
-  "trigger": "!turnt",
+  "trigger": [
+    "!turnt",
+    "!turntup"
+  ]
   "gifs": [
     "turnt0.gif",
     "turnt1.gif"
