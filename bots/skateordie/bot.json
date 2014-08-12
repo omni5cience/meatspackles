@@ -1,0 +1,15 @@
+{
+  "trigger": "!skate",
+  "gifs": [
+    "skateordie0.gif",
+    "skateordie1.gif",
+    "skateordie2.gif",
+    "skateordie3.gif"
+  ],
+  "messages": [
+    "Urethane wheels fo lyfe!",
+    "Skate or die!",
+    "What up SK8R?",
+    "Four wheels of urethane under me"
+  ]
+}
