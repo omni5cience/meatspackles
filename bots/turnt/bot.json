@@ -1,13 +1,20 @@
 {
-  "trigger": "!turnt",
+  "trigger": [
+    "!turnt",
+    "!turntup"
+  ]
   "gifs": [
     "turnt0.gif",
-    "turnt1.gif"
+    "turnt1.gif",
+    "turnt2.gif",
+    "turnt3.gif",
+    "turnt4.gif"
   ],
   "messages": [
     "I'm turnt",
     "Don't look now but we're all turnt!",
     "How is turnt formed?",
-    "Turnt up!"
+    "Turnt up!",
+    "Turnt all the way up!"
   ]
 }
