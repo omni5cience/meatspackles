@@ -1,0 +1,17 @@
+{
+  "trigger": "!weird",
+  "gifs": [
+    "weird0.gif",
+    "weird1.gif",
+    "weird2.gif",
+    "weird3.gif",
+    "weird4.gif",
+    "weird5.gif"
+  ],
+  "messages": [
+    "KEEP MEATSPACE WEIRD!",
+    "Did someone say weird?",
+    "Stand back — I am being weird!",
+    "NOTHING IS TOO WEIRD!"
+  ]
+}
