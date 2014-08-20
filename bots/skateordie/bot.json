@@ -1,5 +1,8 @@
 {
-  "trigger": "!skate",
+  "trigger": [
+    "!skate",
+    "!sk8"
+  ],
   "gifs": [
     "skateordie0.gif",
     "skateordie1.gif",

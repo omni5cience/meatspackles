@@ -1,0 +1,12 @@
+{
+  "trigger": "!bees",
+  "gifs": [
+    "bees0.gif",
+    "bees1.gif",
+    "bees2.gif",
+    "bees3.gif"
+  ],
+  "messages": [
+    "BEES!"
+  ]
+}
