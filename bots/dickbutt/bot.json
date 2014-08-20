@@ -1,4 +1,7 @@
 {
   "trigger": "!dickbutt",
-  "gifs": "dickbutt.gif"
+  "gifs": [
+   "dickbutt.gif",
+   "dickbutt1.gif"
+  ]
 }
