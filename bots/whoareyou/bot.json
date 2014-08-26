@@ -1,0 +1,7 @@
+{
+  "trigger": "!whoareyou",
+  "gifs": [
+    "whoareyou.gif"
+  ],
+  "messages": "No faces, No spaces - turn on your camera."
+}
