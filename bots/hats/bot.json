@@ -1,0 +1,18 @@
+{
+  "trigger": [
+    "!hat",
+    "!headgear"
+  ],
+  "gifs": [
+    "hats0.gif",
+    "hats1.gif",
+    "hats2.gif",
+    "hats3.gif",
+    "hats4.gif"
+  ],
+  "messages": [
+    "Hats!",
+    "I am a wearer of many hats",
+    "Hats off to ya!"
+  ]
+}
