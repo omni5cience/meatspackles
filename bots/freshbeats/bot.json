@@ -1,0 +1,12 @@
+{
+  "trigger": "!freshbeats",
+  "gifs": [
+    "freshbeats0.gif",
+    "freshbeats1.gif",
+    "freshbeats2.gif"
+  ],
+  "messages": [
+    "yo dis beat smell fresh",
+    "snaaaap these beats are fresssh"
+  ]
+}
