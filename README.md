@@ -18,11 +18,10 @@ To submit a bot create a new folder in the `/bots` directory with:
 
 ```js
 {
-  "trigger": "!metal",    // A regex or string to look for in messages
-  "caseSensitive": false, // [Optional] Defaults to false
-
-  "messages": ["METAL!"],         // [Optional] A string or array of strings
-  "gifs": ["metalhand.gif", ...] // [Optional] A path or array of paths
+  "trigger": "!metal",         // A regex or string to look for in messages
+  "caseSensitive": false,      // [Optional] Defaults to false
+  "gifs": ["metal1.gif", ...]  // [Optional] A path or array of paths
+  "messages": ["METAL!"],      // [Optional] A string or array of strings
 }
 ```
 
