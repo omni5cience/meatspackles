@@ -35,3 +35,4 @@ TODO
 - [ ] Generate bot listing (GH-Pages)
 - [x] Meatmonsters emulation (thanks @gggritso)
 - [ ] More custom bots
+- [ ] Compatibility with [meatspace-chat-v2](https://github.com/meatspaces/meatspace-chat-v2)
