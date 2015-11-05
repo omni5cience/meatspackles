@@ -19,7 +19,7 @@
   "license": "MIT",
   "homepage": "http://github.com/omni5cience/meatspackles",
   "dependencies": {
-    "socket.io-client": "^0.9.16",
+    "socket.io-client": "^1.3.7",
     "mime": "^1.2.11"
   }
 }
