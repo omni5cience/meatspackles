@@ -1,5 +1,6 @@
 {
-  "apiKey": "",
-  "address": "https://chat.meatspac.es",
-  "messageDelay": 5000
+  "address": "http://localhost:3456",
+  "messageDelay": 5000,
+  "frameNumber": 10,
+  "gifSize": [200, 150],
 }
